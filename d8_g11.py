@@ -13,7 +13,7 @@ class Usuario:
         self.id = self.generar_id()
         self.nombre = nombre
         self.apellido = apellido
-        self.telefono = telefono
+        self.telefono = telefono#hola
         self.username = username
         self.email = email
         self.contraseña = contraseña
